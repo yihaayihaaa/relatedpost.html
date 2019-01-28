@@ -1,2 +1,0 @@
-# relatedpost.html
-relatedpost
